@@ -1,0 +1,168 @@
+    .main-para {
+        padding: 5rem 7.75rem;
+        font-family: 'League Spartan', sans-serif;
+        font-weight: 400;
+        font-size: 1.5rem;
+    }
+    
+    .card {
+        border-collapse: separate;
+        border-radius: 7px !important;
+        padding: 10px;
+        perspective: 1px;
+    }
+    
+    .col {
+        padding: 10px 20px 22px;
+    }
+    
+    .custom-page {
+        width: 70% !important;
+        text-align: center;
+        margin: auto;
+        padding: 7rem 4rem 2rem;
+        display: block;
+        border-radius: 3px !important;
+    }
+    
+    .custom-page-image {
+        width: 70%;
+        margin: 1rem 0 3rem;
+        border-radius: 10px;
+    }
+    
+    .custom-page-list-para {
+        font-family: 'League Spartan', sans-serif;
+        font-weight: 400;
+        font-size: 1.5rem;
+        padding: 1rem 7.75rem;
+    }
+    
+    .carousel-lower-heading {
+        padding-bottom: 20px;
+        font-size: 2rem;
+        -webkit-text-stroke-width: 1.4px;
+        -webkit-text-stroke-color: #000000;
+        font-weight: 700;
+    }
+    
+    .custom-page-list {
+        font-family: 'League Spartan', sans-serif;
+        font-weight: 400;
+        font-size: 1.5rem;
+        padding: 0 15rem;
+    }
+    
+    .custom-page-div {
+        border-style: double;
+        border-color: seagreen;
+        margin: 2rem 8rem;
+        padding: 2rem 10rem;
+        border-radius: 100px;
+    }
+    
+    .custom-page-div-font {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        font-size: 2rem;
+        color: seagreen;
+        padding: 2rem 7.75rem
+    }
+    
+    .custom-page-div-font.abc {
+        margin: 1.2rem 7.75rem
+    }
+    
+    .custom-page-div-font.bottom {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        font-size: 2rem;
+        color: seagreen;
+        padding: 0rem 7.75rem 0.2rem;
+    }
+    
+    .custom-page-div-font.date {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        font-size: 1.4rem;
+        color: #000000;
+        padding: 0rem 7.75rem 0rem;
+        margin-bottom: 0;
+    }
+    
+    .custom-page-list-para.bottom {
+        font-family: 'League Spartan', sans-serif;
+        font-weight: 400;
+        font-size: 1.5rem;
+        padding: 0 7.75rem;
+    }
+    
+    .custom-page-div-font .ratings {
+        color: #f09433;
+        margin-bottom: 3px;
+        font-weight: 800;
+    }
+    
+    .card-img-top {
+        border-radius: 3px !important;
+    }
+    
+    .custom-page {
+        width: 60px;
+    }
+    
+    .card-font {
+        font-family: 'Nunito', sans-serif;
+        font-weight: 400;
+        font-size: 1.2rem;
+    }
+    
+    .card-content-font {
+        font-size: 1rem;
+    }
+    
+    .card:hover {
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.8);
+        transform: scale(1.1);
+    }
+    /* footer and icons */
+    
+    .footer {
+        text-align: center;
+        padding: 120px;
+        margin-top: 15px;
+        background-color: #EBEBED;
+    }
+    
+    .custom {
+        padding: 10px 20px;
+    }
+    
+    .fb {
+        color: #3B5998;
+    }
+    
+    .ig {
+        color: #f09433;
+        color: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+        color: -webkit-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+        color: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888', GradientType=1);
+    }
+    
+    .github {
+        color: #171515;
+    }
+    
+    .mail {
+        color: #15aabf;
+    }
+    
+    .linkedin {
+        color: #0e76a8
+    }
+    
+    .custom:hover {
+        opacity: 0.7;
+    }
+    /* footer and icons ends */
