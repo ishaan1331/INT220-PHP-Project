@@ -1,0 +1,102 @@
+    .nav-custom {
+        padding: 2rem 2rem;
+    }
+    
+    .main-para {
+        padding: 5rem 7.75rem;
+        font-family: 'League Spartan', sans-serif;
+        font-weight: 400;
+        font-size: 1.5rem;
+    }
+    
+    .carousel-sizing {
+        width: 70%;
+        text-align: center;
+        margin: auto;
+    }
+    
+    .popular {
+        /* padding: 5rem 7rem 3.5rem; */
+        padding: 5rem 0 3.5rem 7.75rem;
+        /* background-color: ghostwhite */
+        font-weight: 500;
+        font-family: 'Fredoka', sans-serif;
+    }
+    
+    .color {
+        background-color: mintcream;
+        margin-top: 4rem;
+    }
+    /* cards */
+    
+    .card {
+        border-collapse: separate;
+        border-radius: 7px !important;
+        padding: 10px;
+        perspective: 1px;
+    }
+    
+    .card-img-top {
+        border-radius: 3px !important;
+    }
+    
+    .card-font {
+        font-family: 'Nunito', sans-serif;
+        font-weight: 400;
+    }
+    
+    .col {
+        padding: 10px 20px 30px;
+    }
+    
+    .card-padding {
+        padding: 0 7rem 3rem;
+        margin-right: 0;
+    }
+    
+    .card:hover {
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.8);
+        transform: scale(1.1);
+    }
+    /* card ends */
+    /* footer and icons */
+    
+    .footer {
+        text-align: center;
+        padding: 120px;
+        margin-top: 15px;
+        background-color: #EBEBED;
+    }
+    
+    .custom {
+        padding: 10px 20px;
+    }
+    
+    .fb {
+        color: #3B5998;
+    }
+    
+    .ig {
+        color: #f09433;
+        color: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+        color: -webkit-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+        color: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888', GradientType=1);
+    }
+    
+    .github {
+        color: #171515;
+    }
+    
+    .mail {
+        color: #15aabf;
+    }
+    
+    .linkedin {
+        color: #0e76a8
+    }
+    
+    .custom:hover {
+        opacity: 0.7;
+    }
+    /* footer and icons ends */
